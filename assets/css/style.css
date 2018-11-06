@@ -77,6 +77,14 @@
     background-image: url("../images/bg-quote.jpg");
 }
 
+/*
+* Section - Banner
+*/
+
+#banner {
+    background-image: url("../images/banner.jpg");
+}
+
 
 /*
 * Section - Keep In Touch
